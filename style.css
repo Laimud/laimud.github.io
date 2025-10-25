@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #0f0f0f;
+    color: #ffffff;
+}
+
+header {
+    background: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    color: #00b7ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px;
+    background: url('https://i.imgur.com/dg8JjVp.png') center / cover no-repeat;
+}
+
+.hero button {
+    padding: 12px 24px;
+    background: #00b7ff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.info {
+    padding: 30px;
+    text-align: center;
+    background: #1a1a1a;
+}
+
+footer {
+    background: #111;
+    text-align: center;
+    padding: 15px;
+}
